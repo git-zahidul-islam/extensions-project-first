@@ -1,0 +1,11 @@
+{
+    "name": "First extensions",
+    "description": "it will be change",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "fav.png"
+    },
+    "permission" : ["storage","activeTab","scripting"]
+}
